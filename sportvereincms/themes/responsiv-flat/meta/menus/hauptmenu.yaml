@@ -1,0 +1,11 @@
+items:
+    -
+        title: Test
+        type: cms-page
+        code: ''
+        reference: test
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+name: Hauptmenu
